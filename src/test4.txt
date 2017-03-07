@@ -1,3 +1,4 @@
 new file test4.txt
 ccccc
 AAAA1
+AAAA2
