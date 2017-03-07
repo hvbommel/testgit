@@ -1,3 +1,4 @@
 test1 text file
 first version
 trying commandline commit
+this change was made after previous change was stashed
