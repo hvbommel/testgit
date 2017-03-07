@@ -2,3 +2,6 @@ test1 text file
 first version
 trying commandline commit
 this change was made after previous change was stashed
+see how git stash works
+secind stash test, this time with comment
+
